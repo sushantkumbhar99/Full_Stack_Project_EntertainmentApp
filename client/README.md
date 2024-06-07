@@ -4,6 +4,22 @@ Overview
 Entertainment App is a web application that offers users the opportunity to explore and enjoy a diverse range of movies. The platform provides an intuitive interface for users to discover movies, view detailed information, and watch trailers. Additionally, the application incorporates user authentication, bookmarking of favorite movies, and personalized recommendations.
 
 Visit the website:
+https://full-stack-project-entertainment-app.vercel.app/
+
+# Resource
+
+[Create React App](https://create-react-app.dev/)<br>
+[Material UI](https://create-react-app.dev/)<br>
+[Mongoose](https://mongoosejs.com/)<br>
+[ExpressJS](https://expressjs.com/)<br>
+[Express Validator](https://express-validator.github.io/docs/)<br>
+[React Router](https://reactrouter.com/)<br>
+[Formik](https://formik.org/)<br>
+[Yup](https://github.com/jquense/yup/)<br>
+[Axios](https://axios-http.com/)<br>
+[ThemovieDB](https://www.themoviedb.org/)<br>
+[Swiper](https://swiperjs.com/)<br>
+[JWT](https://github.com/auth0/node-jsonwebtoken)<br>
 
 
 
@@ -38,7 +54,8 @@ Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-Clone the repository:
+Clone the repository: 
+https://github.com/sushantkumbhar99/Full_Stack_Project_EntertainmentApp.git
 
 Install dependencies:
 npm install
